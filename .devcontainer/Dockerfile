@@ -6,7 +6,8 @@ FROM mcr.microsoft.com/devcontainers/go:1-1.22-bookworm
 
 # [Optional] Uncomment the next lines to use go get to install anything else you need
 # USER vscode
-# RUN go get -x <your-dependency-or-tool>
+# RUN go install github.com/gin-contrib/cors
+# RUN go install github.com/gin-gonic/gin
 # USER root
 
 # [Optional] Uncomment this line to install global node packages.
