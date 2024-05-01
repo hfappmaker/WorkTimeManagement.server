@@ -9,6 +9,7 @@ require github.com/chenzhuoyu/iasm v0.9.1 // indirect
 require (
 	github.com/bytedance/sonic v1.11.3 // indirect
 	github.com/chenzhuoyu/base64x v0.0.0-20230717121745-296ad89f973d // indirect
+	github.com/comail/colog v0.0.0-20160416085026-fba8e7b1f46c
 	github.com/gabriel-vasile/mimetype v1.4.3 // indirect
 	github.com/gin-contrib/cors v1.7.1
 	github.com/gin-contrib/sse v0.1.0 // indirect
